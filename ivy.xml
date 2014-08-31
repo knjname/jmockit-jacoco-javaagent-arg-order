@@ -1,0 +1,11 @@
+<ivy-module version="2.0">
+	<info organisation="knjname" module="jmockit-jacoco-javaagent-ant-order" />
+	
+	<dependencies>
+		<dependency org="org.jmockit" name="jmockit" rev="1.11" />
+		<dependency org="org.jacoco" name="org.jacoco.ant" rev="0.7.1.201405082137" />
+		<dependency org="org.jacoco" name="org.jacoco.agent" rev="0.7.1.201405082137" />
+		<dependency org="junit" name="junit" rev="4.11" />
+		<dependency org="org.hamcrest" name="hamcrest-all" rev="1.3" />
+	</dependencies>
+</ivy-module>
